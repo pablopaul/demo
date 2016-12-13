@@ -1,2 +1,7 @@
 # Demo Project for Github project usage
-Demo Github Project
+
+## Show the following things
+* Agile Board
+* Mentions
+* Notifications
+* Uploads
